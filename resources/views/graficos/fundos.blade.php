@@ -14,12 +14,12 @@
      <h1>Fundos</h1>
      <form class="form-inline" id="filtrarGrafico" method="post">
         <div class="form-group">
-            <label for="dataInicial">Data Inicial:</label>
+            <label for="dataInicial mr-1">Data Inicial:</label>
             <input type="date" name="dataInicial" id="dataInicial">
         </div>
 
          <div class="form-group ml-2">
-             <label for="dataInicial">Data Final:</label>
+             <label for="dataInicial mr-1">Data Final:</label>
              <input type="date" name="dataFinal" id="dataFinal">
          </div>
          <button class="btn btn-primary ml-2" type="submit">Filtrar data</button>
