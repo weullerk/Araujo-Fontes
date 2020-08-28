@@ -1,0 +1,12 @@
+{
+    "/assets/js/pages/fundo.js": "/assets/js/pages/fundo.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/assets/libs/jquery/jquery.min.js": "/assets/libs/jquery/jquery.min.js",
+    "/assets/libs/bootstrap/bootstrap.min.js": "/assets/libs/bootstrap/bootstrap.min.js",
+    "/assets/libs/bootstrap/bootstrap.min.css": "/assets/libs/bootstrap/bootstrap.min.css",
+    "/assets/libs/chart/chart.min.js": "/assets/libs/chart/chart.min.js",
+    "/assets/libs/chart/chart.min.css": "/assets/libs/chart/chart.min.css",
+    "/assets/libs/moment/moment.min.js": "/assets/libs/moment/moment.min.js",
+    "/assets/js/app.min.js": "/assets/js/app.min.js"
+}
